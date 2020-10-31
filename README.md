@@ -1,7 +1,7 @@
 # portfolio
 
 # About Me
-![Headshot](Downloads/Headshot.jpg)
+![Headshot](C:\Users\wpark\Downloads\Headshot.jpg)
 Hi everyone! :wave: My name is Wendy Parkulo (she/her) and I am a second year Master of Arts Management student. I am originially from Jacksonville, Florida and I went to undergrad at Flordia State University where I earned degrees in Theatre and Marketing. I hope to work in marketing for a regional theatre company upon graduation. 
 
 
