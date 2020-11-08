@@ -20,3 +20,7 @@ Here's where all of my cool data visualization will go!
 Government debt from 1995 to 2019 in 35 countries. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4281594"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I wanted to show how much of an outlier Japan's continually growing Debt-to-GDP ratio was compared to other countries.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4282018"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
