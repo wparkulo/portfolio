@@ -12,3 +12,5 @@ I hope to learn how to make compelling and informative data visualizations that 
 Here's where all of my cool data visualization will go!
 
 [Visualizating Government Debt](/dataviz2.md)
+
+[Critique by Design](/dataviz3.md) 
