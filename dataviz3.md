@@ -1,7 +1,7 @@
 
 # Critique by Design
 
-I chose to redesign a data visualization from Colleen Dilenschneider's arts management blog, *Know Your Own Bone*. 
+I chose to redesign a data visualization from Colleen Dilenschneider's arts management blog, [*Know Your Own Bone*.](https://www.colleendilen.com/)
 
 ![Know Your Bone Data Visualization](https://user-images.githubusercontent.com/73760381/99205276-1668cd00-2786-11eb-8bd8-77d75bcaad28.png) 
 
@@ -19,6 +19,6 @@ I think it's really clear. I immediately understand that COVID-19 is a huge prob
 
 I was really happythat my wire frame was clear to these two people because although they are friends, they are also aspiring arts managers who are the target audience of my data visualization. 
 
-With their feedback, I created my re-design in Flourish. I adjusted the title of the X-axis to make it clear that it refers to the value of the barrier. 
+With their feedback, I created my re-design in Flourish. I adjusted the title of the X-axis to make it clear that it refers to the value of the barrier. I cut the number of bars in half by only including bars for the changes rather than for 2019 and 2020. I eliminated gridlines to clean up the composition. I created a title that told a story. I used colors to differentiate between the barriers that became more relevant versus the ones that became less relevant. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4357388"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
