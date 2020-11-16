@@ -11,11 +11,12 @@ With all this in mind I created my wireframe.
 
 ![Wireframe](https://user-images.githubusercontent.com/73760381/99205645-2634e100-2787-11eb-910e-57e8999d55cb.jpg)
 
-I got feedback on two friends about this first attempt. 
+I got feedback from two friends about this first attempt. 
 
 Meredith K. | Samantha J.
 --------------------------
 I think it's really clear. I immediately understand that COVID-19 is a huge problem this year while it wasn't an issue last year. I'm just slightly unclear about the meaning of the X-axis Title | I honestly don't think I would change anything about your redesign! I like that you changed it to represent the differences so it's clearer what has changed over the past year.
+-------------------------
 
 I was really happythat my wire frame was clear to these two people because although they are friends, they are also aspiring arts managers who are the target audience of my data visualization. 
 
