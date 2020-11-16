@@ -1,7 +1,7 @@
 
 # Critique by Design
 
-I chose to redesign a data visualization from Colleen Dilenschneider's arts management blog, [*Know Your Own Bone*.](https://www.colleendilen.com/)
+I chose to redesign a data visualization from Colleen Dilenschneider's arts management blog, [*Know Your Own Bone*.](https://www.colleendilen.com/) This specific visualization was found in the article [The Five Biggest Barriers to Attending Cultural Entities in 2020](https://www.colleendilen.com/2020/09/16/the-five-biggest-barriers-to-attending-cultural-entities-in-2020-data/)
 
 ![Know Your Bone Data Visualization](https://user-images.githubusercontent.com/73760381/99205276-1668cd00-2786-11eb-8bd8-77d75bcaad28.png) 
 
