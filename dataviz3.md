@@ -17,7 +17,7 @@ Meredith K. | Samantha J.
 ------------ | --------------
 I think it's really clear. I immediately understand that COVID-19 is a huge problem this year while it wasn't an issue last year. I'm just slightly unclear about the meaning of the X-axis Title | I honestly don't think I would change anything about your redesign! I like that you changed it to represent the differences so it's clearer what has changed over the past year.
 
-I was really happythat my wire frame was clear to these two people because although they are friends, they are also aspiring arts managers who are the target audience of my data visualization. 
+I was really happy that my wire frame was clear to these two people because although they are friends, they are also aspiring arts managers who are the target audience of my data visualization. 
 
 With their feedback, I created my re-design in Flourish. I adjusted the title of the X-axis to make it clear that it refers to the value of the barrier. I cut the number of bars in half by only including bars for the changes rather than for 2019 and 2020. I eliminated gridlines to clean up the composition. I created a title that told a story. I used colors to differentiate between the barriers that became more relevant versus the ones that became less relevant. 
 
