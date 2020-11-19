@@ -6,7 +6,10 @@
 Theatre producers need to work harder to correct the gender and racial disparities in the number and amount of Broadway Equity contracts to meet the standards set out by the [We See You White American Theatre demands](https://www.weseeyouwat.com/). 
 
 ### Key Points
-1. 
+1. New York City is a diverse melting pot.
+2. Broadway, not so much.
+3. Broadway still has a long way to go to meet the We See You WAT demands.
+4. Push Broadway producers to action by signing the We See You WAT petition. 
 
 ### Call to Action
 Learn more about We See You White American Theatre and sign their [petition](https://www.weseeyouwat.com/) to demand change for BIPOC theatremakers. 
@@ -23,4 +26,5 @@ The Broadway League is the national trade association for the Broadway industry.
 I will use [New York City](census.gov/quickfacts/fact/table/newyorkcitynewyork/POP010210#POP010210) census data to compare the demographics of the population of New York City to the demographics of the performers and stage managers with Equity contracts from the diversity study. 
 
 ## Method and Medium
+I plan to build out my final project using Shorthand. 
 
