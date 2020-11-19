@@ -14,3 +14,6 @@ Here's where all of my cool data visualization will go!
 [Visualizating Government Debt](/dataviz2.md)
 
 [Critique by Design](/dataviz3.md) 
+
+[Final Project](/finalproject_WendyParkulo.md)
+
