@@ -3,7 +3,7 @@
 ## Outline
 
 ### Summary
-Theatre producers need to work harder to correct the racial disparities in the number and amount of Broadway Equity contracts to meet the standards set out by the [We See You White American Theatre demands](https://www.weseeyouwat.com/). 
+Theatre producers need to work harder to correct the racial disparities in the distribution and compensation of Broadway Equity contracts to meet the standards set out by the [We See You White American Theatre demands](https://www.weseeyouwat.com/). 
 
 ### Key Points
 1. New York City is a diverse melting pot.
