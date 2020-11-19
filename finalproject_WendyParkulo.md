@@ -7,11 +7,11 @@ Theatre producers need to work harder to correct the racial disparities in the n
 
 ### Key Points
 1. New York City is a diverse melting pot.
-![USAvsNYC Census Data](https://user-images.githubusercontent.com/73760381/99733213-d3ad3a80-2a8e-11eb-964c-7b722ab50acf.jpg)
+![USAvsNYC Census Data](https://user-images.githubusercontent.com/73760381/99733228-d7d95800-2a8e-11eb-9b66-7d8bf53e17bf.jpg)
 2. Broadway, not so much.
 ![If Broadway had 100 Actors](https://user-images.githubusercontent.com/73760381/99733223-d60f9480-2a8e-11eb-8446-78960aae2137.jpg)
 3. These racial disparities are coupled with income disparities too.
-![How Much Money do Actors Make](https://user-images.githubusercontent.com/73760381/99733228-d7d95800-2a8e-11eb-9b66-7d8bf53e17bf.jpg)
+![How Much Money do Actors Make](https://user-images.githubusercontent.com/73760381/99733213-d3ad3a80-2a8e-11eb-964c-7b722ab50acf.jpg)
 3. Broadway still has a long way to go to meet the We See You WAT demands.
 ![Get to Work Broadway!](https://user-images.githubusercontent.com/73760381/99733233-d9a31b80-2a8e-11eb-9f23-41df12d2e1dd.jpg)
 4. Push Broadway producers to action by signing the We See You WAT petition. 
@@ -29,5 +29,5 @@ The Broadway League is the national trade association for the Broadway industry.
 I will use [New York City](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/POP010210#POP010210) census data to compare the demographics of the population of New York City to the demographics of the performers and stage managers with Equity contracts from the diversity study. I will also use [United States](https://www.census.gov/quickfacts/fact/table/US/POP010210#POP010210) census data to compare to the demographics of the entire country to those of New York City. 
 
 ## Method and Medium
-I plan to build out my final project using Shorthand. 
+I plan to build out my final project using Shorthand. I plan to create my visualizations with Flourish. 
 
