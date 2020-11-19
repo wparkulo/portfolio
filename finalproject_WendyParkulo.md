@@ -15,8 +15,6 @@ Theatre producers need to work harder to correct the racial disparities in the n
 ### Call to Action
 Learn more about We See You White American Theatre and sign their [petition](https://www.weseeyouwat.com/) to demand change for BIPOC theatremakers. 
 
-## Sketches
-
 ## Data
 The data will come from the Actor's Equity Association, The Broadway League, and the U.S. Census Bureau.
 
