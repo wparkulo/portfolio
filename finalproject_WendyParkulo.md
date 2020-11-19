@@ -8,6 +8,7 @@ Theatre producers need to work harder to correct the racial disparities in the n
 ### Key Points
 1. New York City is a diverse melting pot.
 2. Broadway, not so much.
+3. These racial disparities are coupled with income disparities too.
 3. Broadway still has a long way to go to meet the We See You WAT demands.
 4. Push Broadway producers to action by signing the We See You WAT petition. 
 
