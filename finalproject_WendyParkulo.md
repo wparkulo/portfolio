@@ -24,7 +24,7 @@ The Actor's Equity Association Actors' was founded in 1913, is the U.S. labor un
 
 The Broadway League is the national trade association for the Broadway industry. The League publishes statistics about Broadway as a whole each year that can be found [here](https://www.broadwayleague.com/research/statistics-broadway-nyc/). I will use this data to underscore the Broadway industry's profits and provide information about the number of shows that were running during the aforementioned diversity study. 
 
-I will use [New York City](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/POP010210#POP010210) census data to compare the demographics of the population of New York City to the demographics of the performers and stage managers with Equity contracts from the diversity study. 
+I will use [New York City](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/POP010210#POP010210) census data to compare the demographics of the population of New York City to the demographics of the performers and stage managers with Equity contracts from the diversity study. I will also use [United States](https://www.census.gov/quickfacts/fact/table/US/POP010210#POP010210) census data to compare to the demographics of the entire country to those of New York City. 
 
 ## Method and Medium
 I plan to build out my final project using Shorthand. 
