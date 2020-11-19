@@ -19,6 +19,10 @@ Theatre producers need to work harder to correct the racial disparities in the n
 ### Call to Action
 Learn more about We See You White American Theatre and sign their [petition](https://www.weseeyouwat.com/) to demand change for BIPOC theatremakers. 
 
+### Story Arc
+I plan to start the story out positively by positively by talking about how diverse New York City is. Then, I will transition into how it is a shame that Broadway does not follow suit. I will continue to stoke discontent in Broadway's lack of diversity by explaining how there is also disparity in how much money different racial groups make. After that I will talk about how not all hope is lost because We See You White American Theatre is looking to make drastic changes to the industry. I will end on a high note by giving everyone a way to help by signing a petition to demand change for BIPOC theatremakers. 
+![Story Arc](https://user-images.githubusercontent.com/73760381/99734664-30115980-2a91-11eb-9a93-dc5b609bf48d.jpg) 
+
 ## Data
 The data will come from the Actor's Equity Association, The Broadway League, and the U.S. Census Bureau.
 
