@@ -82,6 +82,8 @@ These were the answers I received to my questions.
 
 ![Feedback](https://user-images.githubusercontent.com/73760381/100805489-ba947a00-33fc-11eb-8451-5df1d31cdfcb.png)
 
+I learned a lot from this feedback and will try to implement much of it. On the positive side, I think the flow and order of information worked well. I got some more positive feedback on the unit chart so I will definitely keep it and may try to stylistically make it look like people standing on a stage. As for changes, I will make sure that the call to action stands out in the final product. I will rework the order and colors of the horizontal bar chart so that it is simpler. I will cleanup the last visualization so that it is simpler. I may try to add one more bit of comparative data because several people mentioned an interest in diving deeper into this subject. 
+
 
 
 
