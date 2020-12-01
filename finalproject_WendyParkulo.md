@@ -56,13 +56,14 @@ For Part Two of the final project I began by creating my storyboard.
 
 ![Storyboard](https://user-images.githubusercontent.com/73760381/100803535-51f7ce00-33f9-11eb-8174-2b551229b817.png)
 
-The wireframes of the data visualizations are the same as above except I made a new variation of the first visualization after receiving feedback during class that higher bars in a bar charts are generally seen as a good thing (the more the merrier) so it was not immediately clear that the USA being mostly white is a bad thing. Therefore, I opted to created a pair of pie charts instead as you can see in more detail below.
+The wireframes of the data visualizations are the same as above except I made a new variation of the first visualization after receiving feedback during class that higher bars in a bar chart are generally seen as a good thing (the more the merrier) so it was not immediately clear that the USA being mostly white is a bad thing. Therefore, I opted to created a pair of pie charts instead as you can see in more detail below.
+
 
 ![Pie charts](https://user-images.githubusercontent.com/73760381/100804012-1b6e8300-33fa-11eb-80a8-a21a091e52f5.jpg)
 
 ## User Research Protocol
 
-I hope to reach arts administrators theatregoers with my story. Therefore, I chose to research out to classmates in my program to interview. 
+I hope to reach arts administrators and theatregoers with my story. Therefore, I chose to research out to classmates in my Arts Management program to interview. 
 
 I had three main goals that I wanted to achieve with my interviews. I wanted to know if my classmates thought the story was cohesive, complete, and effective. 
 
@@ -82,7 +83,11 @@ These were the answers I received to my questions.
 
 ![Feedback](https://user-images.githubusercontent.com/73760381/100805489-ba947a00-33fc-11eb-8451-5df1d31cdfcb.png)
 
-I learned a lot from this feedback and will try to implement much of it. On the positive side, I think the flow and order of information worked well. I got some more positive feedback on the unit chart so I will definitely keep it and may try to stylistically make it look like people standing on a stage. As for changes, I will make sure that the call to action stands out in the final product. I will rework the order and colors of the horizontal bar chart so that it is simpler. I will cleanup the last visualization so that it is simpler. I may try to add one more bit of comparative data because several people mentioned an interest in diving deeper into this subject. 
+I learned a lot from this feedback and will try to implement much of it. On the positive side, I think the flow and order of information worked well and people seemed to enjoy the variety of charts. I got some more positive feedback on the unit chart especially so I will definitely keep it and may try to stylistically make it look like people standing on a stage. 
+
+As for changes, I will make sure that the call to action stands out in the final product. I will rework the order and colors of the horizontal bar chart so that the message is more immediately clear. I will cleanup the last visualization so that it is simpler. I may try to add one more bit of comparative data because several people mentioned an interest in diving deeper into this subject. 
+
+Overall, getting direct feedback will make my final product clearer and more impactful. 
 
 
 
