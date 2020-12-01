@@ -1,5 +1,7 @@
 # Final Project
 
+# Part One
+
 ## Outline
 
 ### Summary
@@ -45,4 +47,8 @@ I will use [New York City](https://www.census.gov/quickfacts/fact/table/newyorkc
 I plan to build out my final project using Shorthand. I plan to create my data visualizations with Flourish. I am a big fan of Canva, so I may include a graphic or two that I design on that platform, as well. I will also incorporate copyright-free images from websties like Pexels, Pixabay, and Unsplash to make my presentation more visually appealing.
 
 At the moment, for the final presentation, I plan to give a verbal high-level overview of my work while visually displaying my full final project Shorthand story. 
+
+# Part Two
+
+
 
