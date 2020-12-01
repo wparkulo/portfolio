@@ -8,23 +8,23 @@
 Theatre producers need to work harder to correct the racial disparities in the distribution and compensation of Broadway Equity contracts to meet the standards set out by the [We See You White American Theatre demands](https://www.weseeyouwat.com/). 
 
 ### Key Points
-1. New York City is a diverse melting pot.
+- New York City is a diverse melting pot.
 
 ![USAvsNYC Census Data](https://user-images.githubusercontent.com/73760381/99733228-d7d95800-2a8e-11eb-9b66-7d8bf53e17bf.jpg)
 
-2. Broadway, not so much.
+- Broadway, not so much.
 
 ![If Broadway had 100 Actors](https://user-images.githubusercontent.com/73760381/99733223-d60f9480-2a8e-11eb-8446-78960aae2137.jpg)
 
-3. These racial disparities are coupled with income disparities too.
+- These racial disparities are coupled with income disparities too.
 
 ![How Much Money do Actors Make](https://user-images.githubusercontent.com/73760381/99733213-d3ad3a80-2a8e-11eb-964c-7b722ab50acf.jpg)
 
-3. Broadway still has a long way to go to meet the We See You WAT demands.
+- Broadway still has a long way to go to meet the We See You WAT demands.
 
 ![Get to Work Broadway!](https://user-images.githubusercontent.com/73760381/99733233-d9a31b80-2a8e-11eb-9f23-41df12d2e1dd.jpg)
 
-4. Push Broadway producers to action by signing the We See You WAT petition. 
+- Push Broadway producers to action by signing the We See You WAT petition. 
 
 ### Call to Action
 Learn more about We See You White American Theatre and sign their [petition](https://www.weseeyouwat.com/) to demand change for BIPOC theatremakers. 
@@ -50,11 +50,46 @@ At the moment, for the final presentation, I plan to give a verbal high-level ov
 
 # Part Two
 
+## Storyboard
+
 For Part Two of the final project I began by creating my storyboard.
 
 ![Storyboard](https://user-images.githubusercontent.com/73760381/100803535-51f7ce00-33f9-11eb-8174-2b551229b817.png)
 
-The wireframes of the data visualizations are the same as above except I made a new variation of the first visualization after receiving feedback during class that higher bars in a bar charts are generally seen as a good thing (the more the merrier) so it was not immediately clear that the USA being mostly white is a bad thing. 
+The wireframes of the data visualizations are the same as above except I made a new variation of the first visualization after receiving feedback during class that higher bars in a bar charts are generally seen as a good thing (the more the merrier) so it was not immediately clear that the USA being mostly white is a bad thing. Therefore, I opted to created a pair of pie charts instead as you can see in more detail below.
+
+![Pie charts](https://user-images.githubusercontent.com/73760381/100804012-1b6e8300-33fa-11eb-80a8-a21a091e52f5.jpg)
+
+## User Research Protocol
+
+I hope to reach arts administrators theatregoers with my story. Therefore, I chose to research out to classmates in my program to interview. 
+
+I had three main goals that I wanted to achieve with my interviews. I wanted to know if my classmates thought the story was cohesive, complete, and effective. 
+
+To understand if the story was cohesive I asked:
+- Do you feel that the data visualizations and visuals help to tell the story effectively? Are there any you would remove?
+- Does the overall story make sense to you? Is anything unclear?
+
+To understand if the story was complete I asked:
+- Is there any data that is missing that you feel would help to tell the story better?
+
+To understand if the story was effective I asked:
+- How do you feel after reading this story?
+- Do you feel that the data visualizations and visuals help to tell the story effectively? Are there any you would remove?
+- Do you feel that the choice of data visualization types are the most effective for the data being shown? Are there any you would change?
+
+These were the answers I received to my questions.
+
+![Feedback](https://user-images.githubusercontent.com/73760381/100805489-ba947a00-33fc-11eb-8451-5df1d31cdfcb.png)
+
+
+
+
+
+
+
+
+
 
 
 
