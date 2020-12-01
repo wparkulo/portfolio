@@ -63,7 +63,7 @@ The wireframes of the data visualizations are the same as above except I made a 
 
 ## User Research Protocol
 
-I hope to reach arts administrators and theatregoers with my story. Therefore, I chose to research out to classmates in my Arts Management program to interview. 
+I hope to reach theatremakers and theatregoers with my story. I chose to research out to classmates in my Arts Management program to interview because even though not everyone comes from a theatre background, they all have an above average appreciation for art in general. 
 
 I had three main goals that I wanted to achieve with my interviews. I wanted to know if my classmates thought the story was cohesive, complete, and effective. 
 
