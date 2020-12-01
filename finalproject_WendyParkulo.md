@@ -50,5 +50,13 @@ At the moment, for the final presentation, I plan to give a verbal high-level ov
 
 # Part Two
 
+For Part Two of the final project I began by creating my storyboard.
+
+![Storyboard](https://user-images.githubusercontent.com/73760381/100803535-51f7ce00-33f9-11eb-8174-2b551229b817.png)
+
+The wireframes of the data visualizations are the same as above except I made a new variation of the first visualization after receiving feedback during class that higher bars in a bar charts are generally seen as a good thing (the more the merrier) so it was not immediately clear that the USA being mostly white is a bad thing. 
+
+
+
 
 
