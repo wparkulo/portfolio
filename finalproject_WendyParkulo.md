@@ -89,6 +89,22 @@ As for changes, I will make sure that the call to action stands out in the final
 
 Overall, getting direct feedback will make my final product clearer and more impactful. 
 
+# Part Three
+
+[Final Project Shorthand Link](https://carnegiemellon.shorthandstories.com/the-great-white-way-lives-up-to-its-name/index.html)
+
+My audience is theatregoers and theatremakers who need to be aware of the racial disparities in the industry so that they can work against these issues. One of the biggest changes I made to fit this audience was simplifying my calls to action so that they fit the various subsets of my audience. At the end of the presentation everyone should feel like there is something they can do. 
+
+I changed my first graph to just focus on New York City because I got feedback that providing information on the United States as a whole was a little confusing and watered down the point I was trying to make. Therefore, I focused on how New York is very diverse, but Broadway does not match that level of diversity.
+
+I kept the popular unit chart but changed it to reflect the actual number of contracts rather than a % of 100. This way the sheer number of Caucasians who were awarded contracts will stand out. I also added a theatre curtain background to fit with the theme and topic of my story. 
+
+I tried to keep the colors consistent throughout my presentation so that it would be easier to follow. For example, every time the African American population is mentioned in a visualization it is green and whenever the Asian population is mentioned it is purple. I also moved everything in the Not Provided category to the end of each graph and made them gray so that this irrelevant information would draw less attention. 
+
+I added information about how much money African American actors are losing out on to prove that this problem has severe economic consequences. I added a data visualization about the lack of diversity among stage managers to further drive home the point about how widespread this issue is and that it extends through many different facets of the industry not just on stage. I also included information about Jeremy O. Harris' *Slave Play* because I felt like I needed something to prove that the importance of diversity and talk about positive changes that are starting to happen. 
+
+I think my final version flows well and makes a strong argument for the need for racial equity in both number of contracts and amount of compensation. 
+
 
 
 
