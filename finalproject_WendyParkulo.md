@@ -1,7 +1,9 @@
 # Final Project
 
-[Part One](#part-one) 
+[Part One](#part-one)
+
 [Part Two](#part-two) 
+
 [Part Three](#part-three)
 
 # Part One
