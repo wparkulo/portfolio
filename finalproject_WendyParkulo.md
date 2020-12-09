@@ -1,5 +1,7 @@
 # Final Project
 
+[link](#-Part-One) [link](#-Part-Two) [link](#-Part-Three)
+
 # Part One
 
 ## Outline
