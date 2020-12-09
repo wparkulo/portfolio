@@ -1,6 +1,6 @@
 # Final Project
 
-[link](#-Part-One) [link](#-Part-Two) [link](#-Part-Three)
+[Part One](#part-one) [Part Two](#part-two) [Part Three](#part-three)
 
 # Part One
 
